@@ -1,0 +1,1 @@
+The Google Cloud certificate equips project managers with cloud-based project management skills, enhancing their ability to oversee deployments, optimize workflows, and leverage Google Cloud solutions for efficiency.
